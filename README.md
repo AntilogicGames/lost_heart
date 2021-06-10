@@ -1,5 +1,8 @@
 # 03game
 
+### A Just-click-game. Try to drag your heart to any blackhole available. The closer to the center, more points for you!
+
+
 ## Project setup
 ```
 npm install
